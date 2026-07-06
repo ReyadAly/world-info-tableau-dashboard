@@ -2,9 +2,9 @@
 Tableau dashboard exploring global demographics: population, life expectancy, surface area, languages, and government forms by country and continent.
 
 
-**Date:** 2026  
+**Date:** 26th April,2026  
 **Tool:** Tableau Public  
-**Author:** Reyadh Aly  
+**Author:** Reyad Aly  
 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/views/World_Info_Dashboard_RA/Dashboard1)  
 **Dataset:** [World Cities, Countries and Languages Dataset — Kaggle](https://www.kaggle.com/datasets/adilshamim8/world-cities-countries-and-languages-dataset)
 
